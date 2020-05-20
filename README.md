@@ -6,6 +6,8 @@ a)	A function that finds how many nodes are in a list (length of list)
 b)	A function that swaps two nodes
 c)	A function that (using the functions above) implements the bubble sort and actually sorts in ascending order a doubly linked list
 
+<img src="Images/midaddani.gif" width="420">
+
 Of course, for all three functions I created some tests to make sure the program is working properly.
 The bubble sort functions start at line 107
 and the respective testing functions start at line 221
